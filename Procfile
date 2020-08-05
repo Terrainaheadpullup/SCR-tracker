@@ -1,1 +1,1 @@
-web = python Bot.py
+echo worker: python Bot.py > Procfile
